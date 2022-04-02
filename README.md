@@ -15,3 +15,9 @@ wave modules is made using 2 inverters with a 4.7nF capacitor being charged via
 82K, 120K, 330K, and 220K resistors. My crude calculation shows that the corresponding 
 frequencies are: 1049Hz, 717Hz, 261Hz, 392Hz. 
 
+Measuring the frequncies out of the ATTINY85 you get 
+Pin 0: 960 Hz
+Pin 1: 673.5 Hz
+Pin 2: 248 Hz
+Pin 4: 369 Hz
+Pin 5: Noise 
